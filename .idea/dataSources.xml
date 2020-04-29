@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - crud@localhost" uuid="5089eb20-6ffd-4765-b11d-c25633991635">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/crud?serverTimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="crud@localhost" uuid="fe7b3355-bf58-46b0-993e-7998201fa27d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/crud?serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>
